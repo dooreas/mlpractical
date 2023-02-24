@@ -45,6 +45,7 @@ Miniconda3 will now be installed into this location:
   - Press CTRL-C to abort the installation
   - Or specify a different location below
 ```
+When asked if you need to initialize Miniconda3 by running conda init, enter "yes"
 4. Now you need to activate your environment by first running:
 ```source .bashrc```.
 This reloads .bashrc which includes the new miniconda path.
